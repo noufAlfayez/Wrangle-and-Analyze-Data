@@ -13,7 +13,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 # Project Steps Overview
 
 tasks in this project are as follows:
-<li>
+
 Step 1: Gathering data
 
 Step 2: Assessing data
@@ -25,6 +25,6 @@ Step 4: Storing data
 Step 5: Analyzing, and visualizing data
 
 Step 6: Reporting
-</li>  
+
 
 
